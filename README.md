@@ -16,7 +16,6 @@ O código de produção é da empresa e não é público. Os repositórios abaix
 | **[Transcrição de áudio do WhatsApp](https://github.com/RafaOPato/transcricao-audio-whatsapp)** | Áudios viram texto e alimentam o acompanhamento da obra | n8n, Whisper (Groq), Node.js |
 | **[Leitor de cartões](https://github.com/RafaOPato/Leitor-de-cart-o)** | Foto de cartão de visita vira linha de planilha | Python, Gemini Vision |
 
-Resultados: [preencher: horas por semana economizadas em compras] · [preencher: tempo de cotação antes e depois] · [preencher: quantidade de usuários ativos].
 
 ## Estudos e laboratórios
 
@@ -37,4 +36,4 @@ Resultados: [preencher: horas por semana economizadas em compras] · [preencher:
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/rafael-santos) · rafael.moises2k@gmail.com · [Site](https://pato.bncrealty.com.br)
+[LinkedIn](https://www.linkedin.com/in/rafael-santos) · rafael.moises2k@gmail.com 
